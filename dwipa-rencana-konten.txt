@@ -3,7 +3,11 @@ rencana konten dwipa
   java script
   *es6
   *frameworks java script
+    ^ vue
+    ^ react
   struktur data dasar
   php frameworks
+   ^ laravel
   interview
   vlog
+  python 
