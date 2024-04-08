@@ -5,6 +5,7 @@ rencana konten dwipa
   *frameworks java script
     ^ vue
     ^ react
+    ^ angular
   struktur data dasar
   php frameworks
    ^ laravel
